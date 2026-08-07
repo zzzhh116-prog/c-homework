@@ -1,0 +1,6 @@
+# Dev‑C++忽略
+*.dev
+*.layout
+*.o
+Makefile.win
+*.exe
